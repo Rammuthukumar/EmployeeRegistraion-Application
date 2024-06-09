@@ -1,4 +1,4 @@
-package com.employeereg.admin.model;
+package com.usermanagment.admin.model;
 
 
 public class User {
